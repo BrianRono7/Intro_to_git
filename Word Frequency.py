@@ -20,3 +20,4 @@ print(word_frequency(input))
 
 # 2. Write a function that takes a list of numbers and returns the sum of the squares of all the numbers.
 # 3. Write a function that takes a list of numbers and returns the sum of the squares of all the numbers.
+#My first commit 
